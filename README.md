@@ -29,7 +29,7 @@
   </style>
 </head>
 <body>
-  <h1>Meu GIF Favorito</h1>
+
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlidGVoejFiMHFzbTJ1MW14bTNkM2xiM3o0cGx0cGVldzhtd2k1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVaCKZIC7Vr7QNGdHC/giphy.gif" alt="GIF Animado" />
 </body>
 </html>
