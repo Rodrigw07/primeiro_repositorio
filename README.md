@@ -1,35 +1,22 @@
-# primeiro_repositorio
+# 👋 Olá! Eu sou Rodrigo
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Meu GIF no GitHub</title>
-  <style>
-    body {
-      background-color: #121212;
-      color: white;
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-    h1 {
-      margin-bottom: 20px;
-    }
-    img {
-      max-width: 90vw;
-      border-radius: 8px;
-      box-shadow: 0 0 15px #00d8ff;
-    }
-  </style>
-</head>
-<body>
+Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar projetos que refletem minha paixão por tecnologia, aprendizado contínuo e criatividade aplicada.
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlidGVoejFiMHFzbTJ1MW14bTNkM2xiM3o0cGx0cGVldzhtd2k1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVaCKZIC7Vr7QNGdHC/giphy.gif" alt="GIF Animado" />
-</body>
-</html>
+## 🚀 Sobre mim
+
+- 🎓 Estudante / Desenvolvedor / Entusiasta de tecnologia (escolha o que se aplica)
+- 💻 Trabalho com: `Python`, `JavaScript`, `Node.js`, `React`, `SQL
+- 🌱 Atualmente aprendendo: `TypeScript`, `Docker`, `IA Generativa`
+- 🧠 Curioso por natureza e movido por desafios
+- 📍 Localizado em São Paulo, Santana de Parnaíba, Brasil 🇧🇷
+
+## 🛠️ Projetos em destaque
+
+- 🎓estudante / desenvolvedor
+- 👨‍💻trabalhador / programador
+
+## meio de comunicação
+Instagram: @rodrigw_zv
+
+whatsapp/número: 11 93777-7627
+
