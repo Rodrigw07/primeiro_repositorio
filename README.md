@@ -4,7 +4,7 @@ Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar projetos que reflet
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante / Desenvolvedor / Entusiasta de tecnologia (escolha o que se aplica)
+- 🎓 Estudante / Desenvolvedor / Entusiasta de tecnologia 
 - 💻 Trabalho com: `Python`, `JavaScript`, `Node.js`, `React`, `SQL
 - 🌱 Atualmente aprendendo: `TypeScript`, `Docker`, `IA Generativa`
 - 🧠 Curioso por natureza e movido por desafios
